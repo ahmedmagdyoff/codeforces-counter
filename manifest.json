@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Codeforces Counter",
   "version": "1.0",
-  "description": "Description",
+  "description": "Analyze Codeforces group contests and export solved problems statistics as CSV.",
   "action": {
     "default_popup": "popup.html"
   },
