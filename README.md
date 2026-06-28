@@ -73,10 +73,10 @@ chrome://extensions
 ```text
 .
 ├── content.js
-├── popup.js
-├── popup.html
-├── popup.css
 ├── manifest.json
+├── popup.css
+├── popup.html
+├── popup.js
 └── README.md
 ```
 
